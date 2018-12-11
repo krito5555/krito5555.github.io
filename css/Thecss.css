@@ -27,7 +27,7 @@ video{
 }
 
 a:hover{
-    color:#fff;
+    color:yellow;
 }
 
 h2{
@@ -36,6 +36,8 @@ h2{
     border-top:2px dotted #686143;
     border-bottom:2px dotted #686143;
     text-transform:uppercase;
+    font-family:monospace;
+
 }
 p{
     font-size:20pt;
